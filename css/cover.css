@@ -1,0 +1,172 @@
+html,body {
+  height: 100%;
+  background-color: #262626;
+}
+#cover-section {
+  background-color: #262626;
+  color: White;
+  text-align: center;
+}
+.cover {
+  padding-bottom: 50px;
+}
+.cover-image {
+  width: 800px;
+  position: absolute;
+  padding-top: 40px;
+  margin-left: -390px;
+  z-index: 0;
+}
+.floating {
+    animation-name: floating;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+@keyframes floating {
+    from { transform: translate(0,  0px); }
+    65%  { transform: translate(0, 15px); }
+    to   { transform: translate(0, -0px); }
+}
+.cover-text {
+    padding: 200px 0;
+    margin: auto;
+    z-index: 1;
+}
+.cover-heading {
+  font-size: 9rem;
+  font-family: "Contrail One";
+}
+.cover-description {
+  font-family: "Open Sans";
+  font-size: 1.4rem;
+  font-weight: 600;
+  position: relative;
+}
+.scroll-downs {
+  margin: auto;
+  width :34px;
+  height: 55px;
+}
+.mousey {
+  width: 3px;
+  padding: 10px 15px;
+  height: 35px;
+  border: 3px solid #fff;
+  border-radius: 25px;
+  opacity: 0.75;
+  box-sizing: content-box;
+}
+.scroller {
+  width: 3px;
+  height: 12px;
+  border-radius: 25%;
+  background-color: #fff;
+  animation-name: scroll;
+  animation-duration: 2s;
+  animation-timing-function: cubic-bezier(.15,.41,.69,.94);
+  animation-iteration-count: infinite;
+}
+@keyframes scroll {
+  0% { opacity: 0; }
+  10% { transform: translateY(0); opacity: 1; }
+  100% { transform: translateY(15px); opacity: 0;}
+}
+
+/* Project Section */
+#project-section {
+  margin: 10%;
+}
+.project-container {
+  color: white;
+  margin-bottom: 10%;
+  background-color: DimGray;
+  padding: 0 2%;
+}
+.project-1:hover {
+  background-color: CadetBlue;
+}
+.project-2:hover {
+  background-color: NavajoWhite;
+}
+.project-3:hover {
+  background-color: IndianRed;
+}
+.project-4:hover {
+  background-color: SlateBlue;
+}
+.project-info {
+  margin: auto;
+  padding: 5% 0;
+  padding-left: 8%
+}
+.project-tagline {
+  font-family: "Contrail One";
+  font-size: 2.5rem;
+}
+.project-role {
+  font-family: "Open Sans";
+}
+.view-project-btn {
+  margin-top: 20px;
+}
+.project-mockup {
+  margin: auto auto 0px auto;
+  text-align: center;
+}
+.project-image {
+  width: 80%;
+  /*Set to the container's height*/
+}
+
+
+@media (max-width: 768px) {
+
+  /* Cover Section */
+  .cover-heading {
+    font-size: 7rem;
+  }
+  .cover-description {
+    font-size: 1.2rem;
+  }
+  .cover-image {
+    width: 600px;
+    margin-left: -295px;
+  }
+
+  /* Project Section */
+  .project-container {
+    height: 500px;
+  }
+  .project-info {
+    margin: auto;
+    padding: 5%;
+  }
+  .project-tagline {
+    font-size: 2rem;
+  }
+  .project-mockup {
+    text-align: center;
+  }
+  .project-image {
+    width: 60%;
+  }
+
+}
+
+@media (max-width: 576px) {
+
+  .cover-heading {
+    font-size: 5rem;
+  }
+  .cover-description {
+    font-size: 1rem;
+  }
+  .project-image {
+    width: 80%;
+  }
+  .cover-image {
+    width: 400px;
+    margin-left: -200px;
+  }
+}

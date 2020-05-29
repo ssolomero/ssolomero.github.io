@@ -1,0 +1,87 @@
+/* Header */
+.swipe-header-container {
+  background-color: NavajoWhite;
+  color: white;
+}
+.bacon-header-container {
+  background-color: CadetBlue;
+  color: white;
+}
+.zuko-header-container {
+  background-color: IndianRed;
+  color: white;
+}
+.abflicks-header-container {
+  background-color: SlateBlue;
+  color: white;
+}
+.header {
+  margin: 0 15%;
+  padding-top: 5%;
+}
+.title-container {
+  margin: auto;
+  text-align: center;
+}
+.project-title {
+  font-family: "Contrail One";
+  font-size: 3rem;
+}
+.project-mockup {
+  text-align: center;
+}
+.project-image {
+  width: 80%;
+  margin-bottom: 0;
+}
+
+/* Body */
+body {
+  font-family: "Open Sans";
+}
+h2 {
+  font-family: "Contrail One";
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+p, ul, ol {
+  font-size: .9rem;
+  line-height: 1.6;
+  color: 	#707070
+}
+img {
+  width: 100%;
+  max-width: 800px;
+  margin-bottom: 20px;
+}
+.project-info-container {
+  max-width: 900px;
+  margin: auto;
+  padding: 5%;
+  display: none;
+}
+.details p {
+  line-height: normal;
+}
+.small-header {
+  color: black;
+}
+.details {
+  margin-bottom: 20px
+}
+.section {
+  margin-bottom: 50px;
+}
+
+@media (max-width: 768px) {
+    img {
+      max-width: 300px;
+    }
+    .images {
+      text-align: center;
+    }
+}
+
+@media (max-width: 576px) {
+
+}
