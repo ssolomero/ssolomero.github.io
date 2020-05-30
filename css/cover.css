@@ -36,6 +36,7 @@ html,body {
 .cover-heading {
   font-size: 9rem;
   font-family: "Contrail One";
+  position: relative;
 }
 .cover-description {
   font-family: "Open Sans";
