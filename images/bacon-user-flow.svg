@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="662" viewBox="0 0 1024 662">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#191b40"/>
+      <stop offset="1" stop-color="#308c83"/>
+    </linearGradient>
+    <clipPath id="clip-Positive_User_Flow">
+      <rect width="1024" height="662"/>
+    </clipPath>
+  </defs>
+  <g id="Positive_User_Flow" data-name="Positive User Flow" clip-path="url(#clip-Positive_User_Flow)">
+    <rect width="1024" height="662" fill="#fff"/>
+    <g id="Rectangle_1530" data-name="Rectangle 1530" transform="translate(150 50)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient)">
+      <rect width="200" height="200" rx="25" stroke="none"/>
+      <rect x="0.5" y="0.5" width="199" height="199" rx="24.5" fill="none"/>
+    </g>
+    <rect id="Rectangle_1531" data-name="Rectangle 1531" width="200" height="200" rx="25" transform="translate(674 412)" fill="#e9f0f2"/>
+    <rect id="Rectangle_1532" data-name="Rectangle 1532" width="200" height="200" rx="25" transform="translate(674 50)" fill="#e9f0f2"/>
+    <rect id="Rectangle_1533" data-name="Rectangle 1533" width="200" height="200" rx="25" transform="translate(150 412)" fill="#e9f0f2"/>
+    <text id="Homepage" transform="translate(199 157)" fill="#fff" font-size="18" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Homepage</tspan></text>
+    <text id="Search_and_select_recipient" data-name="Search and select recipient" transform="translate(686 142)" font-size="16" font-family="Montserrat-Regular, Montserrat"><tspan x="17.392" y="15">Search and select </tspan><tspan x="52.336" y="34">recipient</tspan></text>
+    <text id="Pay_Request" data-name="Pay / Request" transform="translate(774 97)" font-size="18" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-63.81" y="0">Pay / Request</tspan></text>
+    <text id="_1._Amount_2._What_for_3._Bank_if_paying_" data-name="1. Amount
+2. What for?
+3. Bank (if paying)" transform="translate(703 519)" font-size="16" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">1. Amount</tspan><tspan x="0" y="19">2. What for?</tspan><tspan x="0" y="38">3. Bank (if paying)</tspan></text>
+    <text id="Transaction_Details" data-name="Transaction 
+Details" transform="translate(774 459)" font-size="18" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-56.943" y="0">Transaction </tspan><tspan x="-32.148" y="22">Details</tspan></text>
+    <text id="Confirm_Transaction" data-name="Confirm
+Transaction" transform="translate(250 507)" font-size="18" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-38.187" y="0">Confirm</tspan><tspan x="-54.459" y="22">Transaction</tspan></text>
+    <g id="Connector" transform="translate(-136.003 12)">
+      <path id="Path_95" data-name="Path 95" d="M0,0V16.043L12.478,8.022Z" transform="translate(776.959 131.478)" fill="#eecda4"/>
+      <path id="Path_96" data-name="Path 96" d="M0,0V16.043L12.478,8.022Z" transform="translate(519.478 147.522) rotate(180)" fill="#eecda4"/>
+      <line id="Line_76" data-name="Line 76" x2="259.263" transform="translate(519.122 139.5)" fill="none" stroke="#eecda4" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="3.84 3.84"/>
+      <rect id="Rectangle_277" data-name="Rectangle 277" width="162" height="41" rx="6" transform="translate(568.003 119)" fill="#f7f7f7"/>
+      <text id="Select_to_pay_or_request" data-name="Select to pay or request" transform="translate(649.003 144)" font-size="12" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="-71.928" y="0">Select to pay or request</tspan></text>
+    </g>
+    <g id="Connector-2" data-name="Connector" transform="translate(-136.003 374)">
+      <path id="Path_95-2" data-name="Path 95" d="M0,0V16.043L12.478,8.022Z" transform="translate(776.959 131.478)" fill="#eecda4"/>
+      <path id="Path_96-2" data-name="Path 96" d="M0,0V16.043L12.478,8.022Z" transform="translate(519.478 147.522) rotate(180)" fill="#eecda4"/>
+      <line id="Line_76-2" data-name="Line 76" x2="259.263" transform="translate(519.122 139.5)" fill="none" stroke="#eecda4" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="3.84 3.84"/>
+    </g>
+    <g id="Connector-3" data-name="Connector" transform="translate(913.716 -242.65) rotate(90)">
+      <path id="Path_95-3" data-name="Path 95" d="M0,0V16.043L12.478,8.022Z" transform="translate(634.159 131.478)" fill="#eecda4"/>
+      <path id="Path_96-3" data-name="Path 96" d="M0,0V16.043L12.478,8.022Z" transform="translate(519.478 147.522) rotate(180)" fill="#eecda4"/>
+      <line id="Line_76-3" data-name="Line 76" x2="116.464" transform="translate(519.122 139.5)" fill="none" stroke="#eecda4" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="3.84 3.84"/>
+    </g>
+    <g id="Connector-4" data-name="Connector" transform="translate(389.716 -242.65) rotate(90)">
+      <path id="Path_95-4" data-name="Path 95" d="M0,0V16.043L12.478,8.022Z" transform="translate(634.159 131.478)" fill="#eecda4"/>
+      <path id="Path_96-4" data-name="Path 96" d="M0,0V16.043L12.478,8.022Z" transform="translate(519.478 147.522) rotate(180)" fill="#eecda4"/>
+      <line id="Line_76-4" data-name="Line 76" x2="116.464" transform="translate(519.122 139.5)" fill="none" stroke="#eecda4" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="3.84 3.84"/>
+    </g>
+  </g>
+</svg>
