@@ -20,7 +20,7 @@ const projects: ProjectItem[] = [
   {
     id: "weinfuse",
     title: "WeInfuse",
-    secondaryTitle: "UI/UX Developer",
+    secondaryTitle: "UI/UX Engineer",
     year: "Present",
     link: "https://www.weinfuse.com",
     thumbnail: "/weinfuse.png",

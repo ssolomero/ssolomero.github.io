@@ -11,7 +11,7 @@ const questions = [
   },
   {
     prompt: "Outside of work?",
-    answer: "Basketball, Photography, Tik Tok edits",
+    answer: "Basketball, Tennis, Photography",
   },
   {
     prompt: "What are you learning?",
